@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Somali Skill Hub",
+  title: "Dinin-Blog",
   description: "Your #1 Platform for Skill Sharing",
     generator: 'v0.dev'
 }
