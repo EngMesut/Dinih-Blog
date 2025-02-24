@@ -18,7 +18,7 @@ export function WhyChooseSection() {
           </p>
         </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 relative text-black">
+        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 relative ">
           <FeatureCard
             title="Showcase Work"
             description="Showcase your project to stand out among all"
@@ -35,7 +35,7 @@ export function WhyChooseSection() {
               <h3 className="text-xl font-semibold text-white"></h3>
             </div> */}
           </div>
-          <div className="space-y-6 text-black">
+          <div className="space-y-6 ">
             <FeatureCard
               title="Networking Opportunities"
               description="Connect with industry professionals"
